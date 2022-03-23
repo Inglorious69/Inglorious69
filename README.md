@@ -10,4 +10,4 @@ Brasilian front-end developer. Currently graduating in System Analysis and Devel
 - Quanto mais conhecimento, melhor.  
 
 ## _Minhas competências:_  
-![HTML](https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png =250x205)
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
