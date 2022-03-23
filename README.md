@@ -3,12 +3,19 @@ Desenvolvedor front-end brasileiro. Atualmente graduando em Análise e Desenvolv
 Brasilian front-end developer. Currently graduating in System Analysis and Development. Hope you enjoy the reading.  
 
 ## _Um pouco sobre mim | I little bit about me:_  
-- 18 anos | 18 years old
-- Graduando em Análise e Desenvolvimento de Sistemas | Graduating in System analysis and Development
-- Possuo formação técnica em informática | Technical training in informatics
-- Falo inglês | I speak english
-- Busco minha primeira oportunidade como desenvolvedor | Looking for my first opportunity as a developer
-- Sempre bucando mais conhecimento | Always looking for more knowledge
+- 18 anos 
+- Graduando em Análise e Desenvolvimento de Sistemas
+- Possuo formação técnica em informática
+- Falo inglês
+- Busco minha primeira oportunidade como desenvolvedor
+- Sempre bucando mais conhecimento
+
+- 18 years old
+- Graduating in System analysis and Development
+- Technical training in informatics
+- I speak english
+- Looking for my first opportunity as a developer
+- Always looking for more knowledge
 
 ## _Minhas competências | My skills:_  
 <p float="left">
