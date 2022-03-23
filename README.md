@@ -10,13 +10,15 @@ Brasilian front-end developer. Currently graduating in System Analysis and Devel
 - Busco minha primeira oportunidade como desenvolvedor
 - Sempre bucando mais conhecimento
 
+<p float="right">
 - 18 years old
 - Graduating in System analysis and Development
 - Technical training in informatics
 - I speak english
 - Looking for my first opportunity as a developer
 - Always looking for more knowledge
-
+</p>
+  
 ## _Minhas competências | My skills:_  
 <p float="left">
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" width="100">
