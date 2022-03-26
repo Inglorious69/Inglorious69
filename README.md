@@ -21,3 +21,6 @@ Brasilian front-end developer. Currently graduating in System Analysis and Devel
 </p>
 
 ## _[Da uma olhada no meu site | Take a look at my website](https://lzcaetano.github.io/)_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
