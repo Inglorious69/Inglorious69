@@ -2,7 +2,7 @@
 Desenvolvedor front-end brasileiro. Atualmente graduando em Análise e Desenvolvimento de Sistemas. Espero que goste da leitura.  
 Brasilian front-end developer. Currently graduating in System Analysis and Development. Hope you enjoy the reading.  
 
-## _ <p align="center"> Um pouco sobre mim | I little bit about me:_  </p>
+## <p align="center">_Um pouco sobre mim | I little bit about me:_</p>
 <p align="center">
 18 anos | 18 years old
 Graduando em Análise e Desenvolvimento de Sistemas | Graduating in System analysis and Development
