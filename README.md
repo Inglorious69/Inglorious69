@@ -26,9 +26,5 @@ Sempre bucando mais conhecimento | Always looking for more knowledge<br><br>
 
 ## <p align="center"> _[Da uma olhada no meu site | Take a look at my website](https://lzcaetano.github.io/)_ </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcaetano)](https://github.com/anuraghazra/github-readme-stats)
+
