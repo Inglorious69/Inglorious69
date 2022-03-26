@@ -1,7 +1,9 @@
 # <p align="center"> _LUIZ G. S. CAETANO_  </p>
-Desenvolvedor front-end brasileiro. Atualmente graduando em Análise e Desenvolvimento de Sistemas. Espero que goste da leitura.  
-Brasilian front-end developer. Currently graduating in System Analysis and Development. Hope you enjoy the reading.  
-
+<p align="center">
+Desenvolvedor front-end brasileiro. Atualmente graduando em Análise e Desenvolvimento de Sistemas. Espero que goste da leitura.<br>
+Brasilian front-end developer. Currently graduating in System Analysis and Development. Hope you enjoy the reading.<br>
+</p>
+  
 ## <p align="center">_Um pouco sobre mim | I little bit about me:_</p>
 <p align="center">
 18 anos | 18 years old<br><br>
@@ -23,6 +25,6 @@ Sempre bucando mais conhecimento | Always looking for more knowledge<br><br>
 </p>
 
 ## <p align="center"> _[Da uma olhada no meu site | Take a look at my website](https://lzcaetano.github.io/)_ </p>
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
