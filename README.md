@@ -3,14 +3,15 @@ Desenvolvedor front-end brasileiro. Atualmente graduando em Análise e Desenvolv
 Brasilian front-end developer. Currently graduating in System Analysis and Development. Hope you enjoy the reading.  
 
 ## _ <p align="center"> Um pouco sobre mim | I little bit about me:_  </p>
-<h3 align="center">
+<p align="center">
 18 anos | 18 years old
 Graduando em Análise e Desenvolvimento de Sistemas | Graduating in System analysis and Development
 Possuo formação técnica em informática | Technical training in informatics
 Falo inglês | I speak english
 Busco minha primeira oportunidade como desenvolvedor | Looking for my first opportunity as a developer
 Sempre bucando mais conhecimento | Always looking for more knowledge
-</h3> 
+</hp> 
+
 ## _<p align="center"> Minhas competências | My skills:  </p>_
 <p float="left" align="center">
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" width="100">
