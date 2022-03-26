@@ -4,12 +4,12 @@ Brasilian front-end developer. Currently graduating in System Analysis and Devel
 
 ## <p align="center">_Um pouco sobre mim | I little bit about me:_</p>
 <p align="center">
-18 anos | 18 years old<br>
-Graduando em Análise e Desenvolvimento de Sistemas | Graduating in System analysis and Development<br>
-Possuo formação técnica em informática | Technical training in informatics<br>
-Falo inglês | I speak english<br>
-Busco minha primeira oportunidade como desenvolvedor | Looking for my first opportunity as a developer<br>
-Sempre bucando mais conhecimento | Always looking for more knowledge<br>
+18 anos | 18 years old<br><br>
+Graduando em Análise e Desenvolvimento de Sistemas | Graduating in System analysis and Development<br><br>
+Possuo formação técnica em informática | Technical training in informatics<br><br>
+Falo inglês | I speak english<br><br>
+Busco minha primeira oportunidade como desenvolvedor | Looking for my first opportunity as a developer<br><br>
+Sempre bucando mais conhecimento | Always looking for more knowledge<br><br>
 </hp> 
 
 ## _<p align="center"> Minhas competências | My skills:  </p>_
@@ -23,6 +23,6 @@ Sempre bucando mais conhecimento | Always looking for more knowledge<br>
 </p>
 
 ## <p align="center"> _[Da uma olhada no meu site | Take a look at my website](https://lzcaetano.github.io/)_ </p>
-
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
-
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
